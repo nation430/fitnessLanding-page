@@ -1,1 +1,1 @@
-# fitness landing page with htmk,css
+# fitness landing page with html,css
